@@ -17,6 +17,7 @@ Research (Discover), Design (Create), Code (Build), repeat.
 
 ##The Site
 I wanted the ability to serve my ideas and projects easily and clearly.  Instead of going with something bulky and with too many features I kept the build and design of this site simple.
+
 * Built on [Jekyll](http://jekyllrb.com)
 * Designed and coded in CSS, HTML, and Javascript with [Sublime Text](http://sublimetext.com)
 * Typographically powered by [Google Fonts](https://www.google.com/fonts) and [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
