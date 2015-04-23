@@ -4,7 +4,7 @@ title: About
 ---
 
 #Colophon
-I'm a voracious designer, researcher, maker, advisor, hacker, hustler, diesel geek, and dream chaser.  I'm fortunate to collaborate with a lot of awesome folks.  I'm a founder and designer at [Great Job](http://greatjob.is), a designer at [Maker Hive](http://makerhive.co), founder of [PassportPhone](http://www.passportphone.io), founder of [Vitamin Vape](http://www.vitaminvape.co), member at [Fort Work](http://www.dallasfortwork.com).  I'm rather nomadic and split my time between a few of my favorite cities including Dallas and New Orleans.
+I'm a voracious designer, researcher, maker, advisor, hacker, hustler, diesel geek, and dream chaser.  I'm fortunate to collaborate with a lot of awesome folks.  I'm a founder and designer at [Great Job](http://greatjob.is), founder of [PassportPhone](http://www.passportphone.io), founder of [Vitamin Vape](http://www.vitaminvape.co), member at [Fort Work](http://www.dallasfortwork.com), and I also consult with numerous teams.  I'm rather nomadic and split my time between a few of my favorite cities including Dallas and New Orleans.
 
 ##My Approach
 I am obsessed with creating how things work.  If you've stumbled here looking for pretty pictures relating to what I've made in the past, find another designer.  Aesthetically driven designers tend to congregate [here](http://www.dribbble.com), [here](http://www.behance.com), and [here](http://www.cargocollective.com).  That is not UX design.  Aesthetics is just the tip of the iceberg.  I solve complex and sophisticated problems utilizing an objective, evidenced based process involving users from the start.
